@@ -50,7 +50,7 @@ window.MINI_APP_CONFIG = {
       boothName: "ACTION STUDIO",
       description: "高解像とスピード感のある撮影を体験",
       location: "Aホール・入口右手",
-      image: "./assets/camera-xh2.png",
+      image: "./camera-xh2.png",
       stampColor: "#ffb8ae",
       accentColor: "#c82e25",
       stampTitle: "アクションカメラ",
@@ -65,7 +65,7 @@ window.MINI_APP_CONFIG = {
       boothName: "TRAVEL & VLOG",
       description: "軽やかな旅とVlog撮影を体験",
       location: "Aホール・中央",
-      image: "./assets/camera-xs20.jpg",
+      image: "./camera-xs20.jpg",
       stampColor: "#aee2cc",
       accentColor: "#23735c",
       stampTitle: "トラベルカメラ",
@@ -80,7 +80,7 @@ window.MINI_APP_CONFIG = {
       boothName: "PRO PORTRAIT",
       description: "最高峰の立体感とポートレート撮影を体験",
       location: "Bホール・入口左手",
-      image: "./assets/camera-gfx100ii.jpg",
+      image: "./camera-gfx100ii.jpg",
       stampColor: "#c8c2ec",
       accentColor: "#4d4388",
       stampTitle: "プロフェッショナル",
@@ -95,7 +95,7 @@ window.MINI_APP_CONFIG = {
       boothName: "COLORFUL PRINT",
       description: "パステルカラーのチェキプリントを体験",
       location: "Bホール・中央",
-      image: "./assets/instax-mini-12.png",
+      image: "./instax-mini-12.png",
       stampColor: "#b9dcf4",
       accentColor: "#3979a5",
       stampTitle: "ふんわりチェキ",
@@ -127,6 +127,7 @@ window.MINI_APP_CONFIG = {
     exchangedDescription: "景品のお渡しが完了しました",
   },
 };
+
 
 
 
