@@ -53,7 +53,6 @@
     if (!liffId || !window.liff) return;
     try {
       await window.liff.init({ liffId: liffId });
-      if (!window.liff.isLoggedIn()) window.liff.login({ redirectUri: window.location.href });
     } catch (error) {
       console.warn('LIFFの初期化に失敗しました。', error);
     }
@@ -619,6 +618,7 @@
     });
   }
 })();
+
 
 
 
