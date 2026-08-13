@@ -11,7 +11,7 @@ window.MINI_APP_CONFIG = {
 
   line: {
     // fuzistamp専用のLIFF IDを設定してください。他アプリのLIFF IDは使用しません。
-    liffId: "",
+    liffId: "2011096585-0wGw5zC5",
   },
 
   theme: {
@@ -127,6 +127,7 @@ window.MINI_APP_CONFIG = {
     exchangedDescription: "景品のお渡しが完了しました",
   },
 };
+
 
 
 
